@@ -3,4 +3,3 @@
 Fashion items image classifier made in Python using TensorFlow. 
 ---------------------------------------
 
-ch4tic 
