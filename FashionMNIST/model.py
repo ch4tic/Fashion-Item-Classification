@@ -1,5 +1,3 @@
-# Author: Eman Ćatić - ch4tic 
-# Github repository: https://github.com/ch4tic/Fashion-Item-Classification.git 
 #!/usr/bin/python3 
 # Importing modules
 import numpy as np
